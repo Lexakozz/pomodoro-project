@@ -35,6 +35,6 @@ Project is still under development.
 
 ## Author/Contact
 
-    M. Achilleas - Initial work
+    M. Achilleas
     Website Preview: https://pomodoro.achilleasmakris.dev/
     
