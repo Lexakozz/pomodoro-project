@@ -2,7 +2,7 @@
 
 
 ## Introduction
-
+This was my final project for Harvad's CS50 certification.
 I tried to create a pomodoro timer website with spotify embed inside to chill and count the time while reading.
 
 
@@ -31,7 +31,7 @@ With the resources available and studies from:
 
 ## Status
 
-Project is still under development.
+Finished
 
 ## Author/Contact
 
